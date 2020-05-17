@@ -1,4 +1,4 @@
-# amortized-mxl
+# Amortized-MXL
 Amortized-MXL: Scaling Bayesian Inference of Mixed Multinomial Logit Models to Very Large Datasets
 
 This repository contains a preliminary release of the source code for the Amortized Variational Inference approach for Mixed Multinomial Logit models proposed in:
